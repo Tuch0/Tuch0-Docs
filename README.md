@@ -1,72 +1,84 @@
-# Ciberseguridad Aeroespacial
+---
+description: >-
+  Portal técnico de Tuch0: laboratorios paso a paso y guías de ciberseguridad
+  ofensiva y aeroespacial para proteger infraestructuras críticas en tierra y en
+  órbita.
+---
 
-> **🚀 El espacio ya no es un lugar lejano.**\
-> Hoy, proteger los sistemas que orbitan sobre nosotros es tan importante como asegurar un datacenter.\
-> Esta sección recopila lo que he aprendido —y sigo explorando— en el campo donde convergen los satélites, las redes espaciales, la radiofrecuencia y la ciberseguridad ofensiva.
+# Home
 
-***
+## 👋 ¡Bienvenido a **Tuch0 Docs**!
 
-### ¿Qué encontrarás aquí?
-
-#### 📡 Documentos y recursos clave
-
-* **1. \[NASA’s Beginner’s Guide to Rockets]**\
-  Fundamentos de propulsión y dinámica de vuelo, explicados de forma clara y usable para red-teamers aeroespaciales.
-* **2. \[Satellite Hacking]**\
-  Introducción a vulnerabilidades reales en sistemas satelitales y cómo se exponen al espacio abierto.
-* **3. \[Satellite Network Hacking & Security Analysis]**\
-  Análisis técnico de protocolos, infraestructura orbital y ejemplos prácticos de ataques en simuladores.
+> **Soy Tuch0** — analista de ciberseguridad ofensiva, researcher en Bugcrowd y divulgador técnico.\
+> Mi objetivo: **llevar la seguridad al espacio** y compartir conocimientos prácticos que ayuden a proteger infraestructuras críticas, desde datacenters hasta satélites en órbita.
 
 ***
 
-#### 🛰️ Mis apuntes técnicos
+### 🌐 Conecta conmigo
 
-* Herramientas que uso en entornos simulados (`OpenSatKit`, `NOS3`, `GNURadio`, `Hack-A-Sat`, etc.).
-* Casos prácticos de análisis de señales, radiofrecuencia y spoofing GNSS.
-* Experimentos documentados desde mi propio **cyberdeck** móvil.
-* Notas anotadas, visuales y listas para aplicar en retos técnicos.
+|                  |                                                                         |
+| ---------------- | ----------------------------------------------------------------------- |
+| 💼 **LinkedIn**  | [https://www.linkedin.com/in/tuch0](https://www.linkedin.com/in/tuch0)  |
+| ▶️ **YouTube**   | [https://www.youtube.com/@tuch0\_](https://www.youtube.com/@tuch0_)     |
+| 🌍 **Web**       | [https://tuch0.com](https://tuch0.com)                                  |
+| 📷 **Instagram** | [https://www.instagram.com/tuch0\_/](https://www.instagram.com/tuch0_/) |
 
-***
-
-#### 📈 ¿Por qué importa?
-
-* Las comunicaciones satelitales son **infraestructura crítica**.
-* Muchas constelaciones comerciales y científicas siguen usando protocolos inseguros (CSP, UDP sin autenticación, telemetría sin cifrado...).
-* Este campo requiere perfiles capaces de unir conocimiento en RF, redes, hardware embebido y ciberseguridad ofensiva.
-
-Si te interesa ir más allá del pentesting tradicional, aquí es donde se está construyendo el futuro.
+> Sígueme para ver demos en vídeo, cheatsheets descargables y los avisos de nuevos laboratorios en tiempo real.
 
 ***
 
-### 🧠 Aprende y crece conmigo
+### 🛰️ Enfoque principal: Ciberseguridad Aeroespacial
 
-Este espacio se actualiza continuamente. Estoy comprometido con compartir lo que aprendo, no desde la teoría, sino desde la **práctica documentada y reproducible**.
+* Investigación de **hacking satelital** (Hack-A-Sat, OpenSatKit, NOS3).
+* Análisis de radiofrecuencia y spoofing GNSS con **SDR**.
+* Proyectos propios: construcción de un **cyberdeck** portable y capturas de telemetría en vivo.
+* Roadmap de contenidos: laboratorio completo de CSP, replay de telemetría y casos reales de CTF espaciales.
 
-> Guarda esta página, explora los recursos y vuelve pronto:\
-> cada nuevo proyecto que hago en este ámbito también lo comparto aquí.
-
-***
-
-### 🌐 Sígueme y explora más contenido aeroespacial
-
-* 🌐 Web: [https://tuch0.com](https://tuch0.com)
-* 📷 Instagram: [@tuch0\_](https://www.instagram.com/tuch0_/)
-* 💼 LinkedIn: [Tuch0](https://www.linkedin.com/in/tuch0)
-* ▶️ YouTube: [@tuch0\_](https://www.youtube.com/@tuch0_)
-
-> Desde simuladores de vuelo hasta radios SDR y hacking satelital, mi contenido es técnico, transparente y directo al grano.
+> _Si buscas el futuro de la ciberseguridad, está más arriba de lo que imaginas._
 
 ***
 
-#### Próximamente...
+### 🛠️ ¿Qué encontrarás aquí?
 
-> Se vienen:
->
-> * Cheatsheet de comandos CSP
-> * Laboratorio completo con OpenSatKit
-> * Análisis de casos reales del Hack-A-Sat
-> * Diagramas explicativos de enlaces espaciales y su ataque
+| Módulo                           | Descripción breve                                                  | Estado                    |
+| -------------------------------- | ------------------------------------------------------------------ | ------------------------- |
+| **Ciberseguridad Aeroespacial**  | Satélite hacking, SDR labs y apuntes personales.                   | ⭐ Focus principal         |
+| **Conocimientos Fundamentales**  | Conceptos de redes, sistemas y metodologías de pentesting.         | 🔄 En expansión           |
+| **Reconocimiento & Enumeración** | OSINT, escaneo de puertos, LLMNR/NBT-NS, SMB, FTP, Google-Dorking… | ✅ Publicado + en progreso |
+| **Explotación**                  | Buffer Overflows, EternalBlue, Shellcode manual.                   | 🔄 Publicación escalonada |
+| **Post Explotación**             | Escalada de privilegios (Linux & Windows), pivoting, persistencia. | 🔄 En desarrollo          |
+| **Defensa**                      | Hardening, detección y respuesta, buenas prácticas ACL.            | 🛠 Próximamente           |
+| **Fuentes Relevantes**           | Repositorio vivo de herramientas, cheatsheets y referencias.       | ✅ Disponible              |
+| **Active Directory**             | Arquitectura, ataques Kerberoasting/DCSync y hardening AD.         | 🔄 Creciendo              |
 
 ***
 
-🛰️ _Bienvenido a la frontera más alta de la ciberseguridad._
+### 🗺️ Cómo navegar el sitio
+
+1. **Barra lateral** – Cada número identifica la fase de la kill-chain o área temática.
+2. **Tabla de contenido** – GitBook la muestra a la derecha para moverte entre secciones.
+3. **Botones “Anterior / Siguiente”** – Al final de cada página para seguir un camino lineal.
+4. **Buscador** – Pulsa `Ctrl + K` y escribe un comando, herramienta o técnica.
+
+***
+
+### 🧩 Metodología de publicación
+
+> **Iteración continua**: prefiero publicar laboratorios “work-in-progress” antes que esperar al documento perfecto.\
+> Cada semana se añade nuevo material o se mejora el existente. Marca ⭐ este repo o activa las notificaciones en GitBook para no perderte nada.
+
+***
+
+### 🙌 Contribuye o colabora
+
+Si encuentras mejoras, errores tipográficos o quieres sugerir un tema:
+
+1. Haz un **fork** del repositorio GitHub `Tuch0-Docs`.
+2. Envía un **pull request**.
+3. O escríbeme por LinkedIn / Instagram.
+
+¡Toda aportación es bienvenida!
+
+***
+
+_Disfruta el viaje y comparte lo que aprendas. El conocimiento crece cuando se propaga._ 🚀
