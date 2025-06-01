@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Ciberseguridad Aeroespacial
 
 > **🚀 El espacio ya no es un lugar lejano.**\
