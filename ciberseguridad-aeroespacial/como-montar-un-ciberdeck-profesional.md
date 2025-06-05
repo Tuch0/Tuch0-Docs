@@ -60,20 +60,20 @@ Una maleta robusta que reúne todo lo necesario para captar y analizar señales 
 
 ### 3. Hardware y coste (2025)
 
-| Componente                                    | Detalle                        | Precio €    |
-| --------------------------------------------- | ------------------------------ | ----------- |
-| Maleta IP67                                   | Tipo Pelican 1150              | 45          |
-| Raspberry Pi 4                                | 4 GB + carcasa                 | 95          |
-| MicroSD 128 GB                                | Clase A2                       | 8           |
-| [RTL‑SDR v3 (kit)](https://amzn.eu/d/60LToUB) | Dongle + antenas               | 100         |
-| Alfa AWUS036ACH                               | Adaptador Wi‑Fi                | 25          |
-| Monitor 11″ 1080p                             | USB‑C + Mini‑HDMI              | 80          |
-| Teclado mecánico 65 %                         | Switch lineal                  | 80          |
-| Powerbank 27 000 mAh PD                       | 20 V / 3 A                     | 25          |
-| Amplificador LNA                              | 20 dB, 50–1200 MHz             | 15          |
-| Hub USB 3.0 compacto                          | Oculto bajo teclado            | 10          |
-| Cables y adaptadores                          | USB‑C y (Mini/Micro)‑HDMI en L | 30          |
-| **Total aproximado**                          |                                | **≈ 515 €** |
+| Componente                                                             | Detalle                        | Precio €    |
+| ---------------------------------------------------------------------- | ------------------------------ | ----------- |
+| Maleta IP67                                                            | Tipo Pelican 1150              | 45          |
+| [Raspberry Pi 4](https://es.aliexpress.com/item/1005007057900568.html) | 4 GB + carcasa                 | 95          |
+| MicroSD 128 GB                                                         | Clase A2                       | 8           |
+| [RTL‑SDR v3 (kit)](https://amzn.eu/d/60LToUB)                          | Dongle + antenas               | 100         |
+| Alfa AWUS036ACH                                                        | Adaptador Wi‑Fi                | 25          |
+| Monitor 11″ 1080p                                                      | USB‑C + Mini‑HDMI              | 80          |
+| Teclado mecánico 65 %                                                  | Switch lineal                  | 80          |
+| Powerbank 27 000 mAh PD                                                | 20 V / 3 A                     | 25          |
+| Amplificador LNA                                                       | 20 dB, 50–1200 MHz             | 15          |
+| Hub USB 3.0 compacto                                                   | Oculto bajo teclado            | 10          |
+| Cables y adaptadores                                                   | USB‑C y (Mini/Micro)‑HDMI en L | 30          |
+| **Total aproximado**                                                   |                                | **≈ 515 €** |
 
 ***
 
