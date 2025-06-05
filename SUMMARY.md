@@ -4,6 +4,7 @@
 
 ## Ciberseguridad Aeroespacial
 
+* [Cómo montar un ciberdeck profesional](ciberseguridad-aeroespacial/como-montar-un-ciberdeck-profesional.md)
 * [Ciberseguridad Aeroespacial](<README (1).md>)
 
 ## Conocimientos Fundamentales
