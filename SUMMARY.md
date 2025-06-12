@@ -18,6 +18,7 @@
   * [Envenenamiento por LLMNR-NBT-NS desde Windows](reconocimiento-y-enumeracion/enumeracion-pasiva/envenenamiento-por-llmnr-nbt-ns-desde-windows.md)
 * [Enumeración Puertos](reconocimiento-y-enumeracion/enumeracion-puertos/README.md)
   * [21 (FTP)](reconocimiento-y-enumeracion/enumeracion-puertos/21-ftp.md)
+  * [445 (Samba)](reconocimiento-y-enumeracion/enumeracion-puertos/445-samba.md)
 
 ## Explotación
 
