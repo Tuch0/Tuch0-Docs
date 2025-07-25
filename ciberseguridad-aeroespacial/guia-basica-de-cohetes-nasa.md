@@ -54,5 +54,3 @@
 * YouTube: [https://www.youtube.com/@tuch0](https://www.youtube.com/@tuch0)\_
 * GitHub: [https://github.com/Tuch0](https://github.com/Tuch0)
 * Web personal: [https://tuch0.com/](https://tuch0.com/)
-
-> 📄 Apuntes personales de HTB Academy. Para uso educativo.
