@@ -22,6 +22,13 @@
   * [21 (FTP)](reconocimiento-y-enumeracion/enumeracion-puertos/21-ftp.md)
   * [445 (Samba)](reconocimiento-y-enumeracion/enumeracion-puertos/445-samba.md)
   * [143,993,995 (IMAP - POP3)](reconocimiento-y-enumeracion/enumeracion-puertos/143-993-995-imap-pop3.md)
+  * [1433 (MSSQL)](reconocimiento-y-enumeracion/enumeracion-puertos/1433-mssql.md)
+  * [1521 (Oracle TNS)](reconocimiento-y-enumeracion/enumeracion-puertos/1521-oracle-tns.md)
+  * [161,162 UDP (SNMP)](reconocimiento-y-enumeracion/enumeracion-puertos/161-162-udp-snmp.md)
+  * [3306 (MySQL)](reconocimiento-y-enumeracion/enumeracion-puertos/3306-mysql.md)
+  * [623 UDP (IPMI)](reconocimiento-y-enumeracion/enumeracion-puertos/623-udp-ipmi.md)
+  * [TCP 111 - UDP 2049 (NFS)](reconocimiento-y-enumeracion/enumeracion-puertos/tcp-111-udp-2049-nfs.md)
+  * [25 (SMPT)](reconocimiento-y-enumeracion/enumeracion-puertos/25-smpt.md)
 
 ## Explotación
 
