@@ -11,7 +11,7 @@
 * **Fuerzas Aerodinámicas:** Su magnitud depende de la forma, el tamaño y la velocidad del cohete, así como de las propiedades de la atmósfera. Estas fuerzas actúan a través del centro de presión (punto negro y amarillo en la figura).
 * **Sustentación y Resistencia:** Algunos cohetes a escala real pueden mover sus toberas (cardan) para generar una fuerza que no está alineada con el centro de gravedad. El par resultante permite maniobrar el cohete.
 
-> **IMPORTANT** **Motor de Cohete:** En un motor cohete, el combustible y el oxidante almacenados se encienden en una cámara de combustión. La combustión produce gases de escape a alta temperatura y presión. Estos gases pasan por una tobera que acelera el flujo, generando empuje según la tercera ley de Newton: “A toda acción le corresponde una reacción de igual magnitud y en sentido opuesto”. $\vec{F}_{AB} = -\vec{F}_{BA}$
+> **IMPORTANT** **Motor de Cohete:** En un motor cohete, el combustible y el oxidante almacenados se encienden en una cámara de combustión. La combustión produce gases de escape a alta temperatura y presión. Estos gases pasan por una tobera que acelera el flujo, generando empuje según la tercera ley de Newton: “A toda acción le corresponde una reacción de igual magnitud y en sentido opuesto”.&#x20;
 
 > **NOTE** **Peso de un Cohete:** El peso es la fuerza generada por la atracción gravitatoria sobre el cohete. Es una de las fuerzas más familiares, aunque su naturaleza es distinta a las fuerzas aerodinámicas o el empuje.
 
