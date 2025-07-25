@@ -1,20 +1,6 @@
 ---
 cover: ../.gitbook/assets/Imagen de WhatsApp 2025-06-05 a las 09.31.30_b7fa0034.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Cómo montar un ciberdeck profesional
