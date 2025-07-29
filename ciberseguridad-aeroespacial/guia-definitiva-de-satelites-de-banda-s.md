@@ -1,5 +1,7 @@
 # Guía definitiva de satélites de banda S
 
+<figure><img src="../.gitbook/assets/Diseño sin título.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Guía personal y completa sobre satélites en banda S
 
 > ¿Qué es la banda S?\
