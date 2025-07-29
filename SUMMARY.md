@@ -7,6 +7,7 @@
 * [Guía Básica de Cohetes (NASA)](ciberseguridad-aeroespacial/guia-basica-de-cohetes-nasa.md)
 * [Cómo montar un ciberdeck profesional](ciberseguridad-aeroespacial/como-montar-un-ciberdeck-profesional.md)
 * [Ciberseguridad Aeroespacial](<README (1).md>)
+* [Guía definitiva de satélites de banda S](ciberseguridad-aeroespacial/guia-definitiva-de-satelites-de-banda-s.md)
 
 ## Conocimientos Fundamentales
 
